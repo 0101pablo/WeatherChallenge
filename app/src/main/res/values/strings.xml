@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather Challenge</string>
+    <string name="hello_world">Hello World</string>
+    <string name="load_data_error_message">Erro ao carregar os dados</string>
+    <string name="data_process_failed_message">Falha ao processar os dados</string>
+    <string name="weather_situation_text">Situação do clima:</string>
+    <string name="loading_message">Carregando…</string>
+    <string name="current_temp">Temperatura atual:</string>
+    <string name="weather_feeling">Sensação climática:</string>
+    <string name="minimum_temperature">Temperatura mínima:</string>
+    <string name="maximum_temperature">Temperatura máxima:</string>
+    <string name="atmospheric_pressure">Pressão atmosférica:</string>
+    <string name="air_humidity">Umidade do ar:</string>
+    <string name="wind_speed">Velocidade do vento:</string>
+    <string name="wind_direction">Direção do vento:</string>
+    <string name="value_with_celsius">%1$sºC</string>
+    <string name="value_with_hpa">%1$s hPa</string>
+    <string name="value_with_percent">%1$s%%</string>
+    <string name="value_with_meters_per_second">%1$s m/s</string>
+</resources>
